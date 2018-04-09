@@ -1,18 +1,20 @@
-# webpack-4-quickstart
-> Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+# Product Development
 
-## Development
+## File
+/node_modules
+ - components
 
-```bash
-npm i && npm run start
-```
+/src
+ - index.html // main product
+ - App.js // Configuration
+ - index.js // script for index.html
+ - main.css // main css for index.html
 
-## Meta
+webpack.config.js
+ - configuration
 
-Valentino Gagliardi - [valentinog.com](https://www.valentinog.com) - valentino@valentinog.com
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Version Released
+ - 1st March // prototype
+ - 18th March // Alpha version
+ - 25th March // Alpha version after heuristics evaluation
